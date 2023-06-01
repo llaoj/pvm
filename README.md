@@ -22,6 +22,6 @@ SUBCOMMANDS:
 Install:
 
 ```
-curl -L  > /usr/local/bin/pvm
+curl -L https://raw.githubusercontent.com/llaoj/pvm/v0.0.1/pvm > /usr/local/bin/pvm
 chmod +x /usr/local/bin/pvm
 ```
