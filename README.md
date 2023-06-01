@@ -1,6 +1,6 @@
 # pvm
 
-A fast and simple PHP version manager
+A `brew-based` fast and simple PHP version manager
 
 ```
 USAGE:
